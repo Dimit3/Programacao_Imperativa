@@ -1,0 +1,3 @@
+C:/Users/Dimitri/Desktop/Projetos algoritmos/perguntas 50 10-20/cmake-build-debug/CMakeFiles/perguntas_50_10_20.dir
+C:/Users/Dimitri/Desktop/Projetos algoritmos/perguntas 50 10-20/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Dimitri/Desktop/Projetos algoritmos/perguntas 50 10-20/cmake-build-debug/CMakeFiles/rebuild_cache.dir

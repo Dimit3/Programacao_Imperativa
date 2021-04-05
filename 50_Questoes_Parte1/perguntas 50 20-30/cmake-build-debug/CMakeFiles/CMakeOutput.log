@@ -1,0 +1,148 @@
+The system is: Windows - 10.0.17134 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is GNU, found in "C:/Users/Dimitri/Desktop/Projetos algoritmos/perguntas 50 20-30/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/Dimitri/Desktop/Projetos algoritmos/perguntas 50 20-30/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe" "cmTC_aaf8c/fast"
+C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f CMakeFiles\cmTC_aaf8c.dir\build.make CMakeFiles/cmTC_aaf8c.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/Dimitri/Desktop/Projetos algoritmos/perguntas 50 20-30/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_aaf8c.dir/testCCompiler.c.obj
+C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\gcc.exe    -o CMakeFiles\cmTC_aaf8c.dir\testCCompiler.c.obj   -c "C:\Users\Dimitri\Desktop\Projetos algoritmos\perguntas 50 20-30\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+Linking C executable cmTC_aaf8c.exe
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_aaf8c.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_aaf8c.dir/objects.a
+C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\ar.exe cr CMakeFiles\cmTC_aaf8c.dir/objects.a @CMakeFiles\cmTC_aaf8c.dir\objects1.rsp
+C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_aaf8c.dir/objects.a -Wl,--no-whole-archive  -o cmTC_aaf8c.exe -Wl,--out-implib,libcmTC_aaf8c.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_aaf8c.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'C:/Users/Dimitri/Desktop/Projetos algoritmos/perguntas 50 20-30/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+
+Detecting C [-std=c11] compiler features compiled with the following output:
+Change Dir: C:/Users/Dimitri/Desktop/Projetos algoritmos/perguntas 50 20-30/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe" "cmTC_075e1/fast"
+C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f CMakeFiles\cmTC_075e1.dir\build.make CMakeFiles/cmTC_075e1.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/Dimitri/Desktop/Projetos algoritmos/perguntas 50 20-30/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_075e1.dir/feature_tests.c.obj
+C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\gcc.exe   -std=c11 -o CMakeFiles\cmTC_075e1.dir\feature_tests.c.obj   -c "C:\Users\Dimitri\Desktop\Projetos algoritmos\perguntas 50 20-30\cmake-build-debug\CMakeFiles\feature_tests.c"
+Linking C executable cmTC_075e1.exe
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_075e1.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_075e1.dir/objects.a
+C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\ar.exe cr CMakeFiles\cmTC_075e1.dir/objects.a @CMakeFiles\cmTC_075e1.dir\objects1.rsp
+C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_075e1.dir/objects.a -Wl,--no-whole-archive  -o cmTC_075e1.exe -Wl,--out-implib,libcmTC_075e1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_075e1.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'C:/Users/Dimitri/Desktop/Projetos algoritmos/perguntas 50 20-30/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:1c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+The system is: Windows - 10.0.17134 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/gcc.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
+
+The C compiler identification is GNU, found in "C:/Users/Dimitri/Desktop/Projetos algoritmos/perguntas 50 20-30/cmake-build-debug/CMakeFiles/3.13.2/CompilerIdC/a.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/Dimitri/Desktop/Projetos algoritmos/perguntas 50 20-30/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe" "cmTC_c6b6d/fast"
+C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f CMakeFiles\cmTC_c6b6d.dir\build.make CMakeFiles/cmTC_c6b6d.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/Dimitri/Desktop/Projetos algoritmos/perguntas 50 20-30/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c6b6d.dir/testCCompiler.c.obj
+C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\gcc.exe    -o CMakeFiles\cmTC_c6b6d.dir\testCCompiler.c.obj   -c "C:\Users\Dimitri\Desktop\Projetos algoritmos\perguntas 50 20-30\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+Linking C executable cmTC_c6b6d.exe
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_c6b6d.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_c6b6d.dir/objects.a
+C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\ar.exe cr CMakeFiles\cmTC_c6b6d.dir/objects.a @CMakeFiles\cmTC_c6b6d.dir\objects1.rsp
+C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_c6b6d.dir/objects.a -Wl,--no-whole-archive  -o cmTC_c6b6d.exe -Wl,--out-implib,libcmTC_c6b6d.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_c6b6d.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'C:/Users/Dimitri/Desktop/Projetos algoritmos/perguntas 50 20-30/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+
+Detecting C [-std=c11] compiler features compiled with the following output:
+Change Dir: C:/Users/Dimitri/Desktop/Projetos algoritmos/perguntas 50 20-30/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe" "cmTC_617d9/fast"
+C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f CMakeFiles\cmTC_617d9.dir\build.make CMakeFiles/cmTC_617d9.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/Dimitri/Desktop/Projetos algoritmos/perguntas 50 20-30/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_617d9.dir/feature_tests.c.obj
+C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\gcc.exe   -std=c11 -o CMakeFiles\cmTC_617d9.dir\feature_tests.c.obj   -c "C:\Users\Dimitri\Desktop\Projetos algoritmos\perguntas 50 20-30\cmake-build-debug\CMakeFiles\feature_tests.c"
+Linking C executable cmTC_617d9.exe
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_617d9.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_617d9.dir/objects.a
+C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\ar.exe cr CMakeFiles\cmTC_617d9.dir/objects.a @CMakeFiles\cmTC_617d9.dir\objects1.rsp
+C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_617d9.dir/objects.a -Wl,--no-whole-archive  -o cmTC_617d9.exe -Wl,--out-implib,libcmTC_617d9.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_617d9.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'C:/Users/Dimitri/Desktop/Projetos algoritmos/perguntas 50 20-30/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:1c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c99] compiler features compiled with the following output:
+Change Dir: C:/Users/Dimitri/Desktop/Projetos algoritmos/perguntas 50 20-30/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe" "cmTC_7b39d/fast"
+C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f CMakeFiles\cmTC_7b39d.dir\build.make CMakeFiles/cmTC_7b39d.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/Dimitri/Desktop/Projetos algoritmos/perguntas 50 20-30/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7b39d.dir/feature_tests.c.obj
+C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\gcc.exe   -std=c99 -o CMakeFiles\cmTC_7b39d.dir\feature_tests.c.obj   -c "C:\Users\Dimitri\Desktop\Projetos algoritmos\perguntas 50 20-30\cmake-build-debug\CMakeFiles\feature_tests.c"
+Linking C executable cmTC_7b39d.exe
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_7b39d.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_7b39d.dir/objects.a
+C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\ar.exe cr CMakeFiles\cmTC_7b39d.dir/objects.a @CMakeFiles\cmTC_7b39d.dir\objects1.rsp
+C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_7b39d.dir/objects.a -Wl,--no-whole-archive  -o cmTC_7b39d.exe -Wl,--out-implib,libcmTC_7b39d.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_7b39d.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'C:/Users/Dimitri/Desktop/Projetos algoritmos/perguntas 50 20-30/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:1c_variadic_macros
+
+
+Detecting C [-std=c90] compiler features compiled with the following output:
+Change Dir: C:/Users/Dimitri/Desktop/Projetos algoritmos/perguntas 50 20-30/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe" "cmTC_c2a11/fast"
+C:/PROGRA~2/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/mingw32-make.exe -f CMakeFiles\cmTC_c2a11.dir\build.make CMakeFiles/cmTC_c2a11.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/Users/Dimitri/Desktop/Projetos algoritmos/perguntas 50 20-30/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c2a11.dir/feature_tests.c.obj
+C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\gcc.exe   -std=c90 -o CMakeFiles\cmTC_c2a11.dir\feature_tests.c.obj   -c "C:\Users\Dimitri\Desktop\Projetos algoritmos\perguntas 50 20-30\cmake-build-debug\CMakeFiles\feature_tests.c"
+Linking C executable cmTC_c2a11.exe
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_c2a11.dir\link.txt --verbose=1
+"C:\Program Files\JetBrains\CLion 2018.3.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_c2a11.dir/objects.a
+C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\ar.exe cr CMakeFiles\cmTC_c2a11.dir/objects.a @CMakeFiles\cmTC_c2a11.dir\objects1.rsp
+C:\PROGRA~2\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\gcc.exe      -Wl,--whole-archive CMakeFiles\cmTC_c2a11.dir/objects.a -Wl,--no-whole-archive  -o cmTC_c2a11.exe -Wl,--out-implib,libcmTC_c2a11.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_c2a11.dir\linklibs.rsp
+mingw32-make.exe[1]: Leaving directory 'C:/Users/Dimitri/Desktop/Projetos algoritmos/perguntas 50 20-30/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:0c_restrict
+    Feature record: C_FEATURE:0c_static_assert
+    Feature record: C_FEATURE:0c_variadic_macros

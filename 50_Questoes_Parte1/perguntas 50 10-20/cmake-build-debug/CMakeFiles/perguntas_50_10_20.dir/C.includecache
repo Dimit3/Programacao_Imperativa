@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Dimitri/Desktop/Projetos algoritmos/perguntas 50 10-20/main.c
+stdio.h
+-
+string.h
+-
+ctype.h
+-
+
